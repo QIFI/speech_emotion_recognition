@@ -1,0 +1,2 @@
+# speech_emotion_recognition
+python speech_emotion_recognition tensorflow
